@@ -1,0 +1,23 @@
+<svg width="48" height="48" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_1" transform="scale(1) ">
+   <!-- ** Line *************** -->
+   <g stroke="null" id="svg_2">
+    <path stroke="rgba(0, 0, 0, 1.00)" id="svg_3" stroke-linejoin="round" stroke-width="4" fill="none" d="m4,14l24,0"/>
+   </g>
+   <!-- ** Line *************** -->
+   <g stroke="null" id="svg_4">
+    <path stroke="rgba(0, 0, 0, 1.00)" id="svg_5" stroke-linejoin="round" stroke-width="4" fill="none" d="m4,22l24,0"/>
+   </g>
+   <!-- ** Line *************** -->
+   <g stroke="null" id="svg_6">
+    <path stroke="rgba(0, 0, 0, 1.00)" id="svg_7" stroke-linejoin="round" stroke-width="4" fill="none" d="m4,30l16,0"/>
+   </g>
+   <!-- ** Line *************** -->
+   <g stroke="null" id="svg_8">
+    <path stroke="rgba(0, 0, 0, 1.00)" id="svg_9" stroke-linejoin="round" stroke-width="4" fill="none" d="m28,30l16,0"/>
+   </g>
+  </g>
+ </g>
+</svg>

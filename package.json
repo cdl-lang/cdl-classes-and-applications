@@ -1,0 +1,9 @@
+{
+  "name": "cdl_automated_test",
+  "version": "1.0.0",
+  "description": "Dependencies for automated testing",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  },
+  "engine": "node >= 8.9.1"
+}
