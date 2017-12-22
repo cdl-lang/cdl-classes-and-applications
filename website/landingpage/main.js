@@ -22,8 +22,7 @@ var classes = {
         context: {
             anchoredChild: [{children: {scrollableView: {children: {text1: _}}}}, [me]],
             documentSize: [{children: {scrollableView: {documentSize: _}}}, [me]],
-            scrollView: [{children: {scrollableView: _}}, [me]],
-            
+            scrollView: [{children: {scrollableView: _}}, [me]]
         },
         display: {
             background: "white"
@@ -52,7 +51,7 @@ var classes = {
                             description: {
                                 display: {
                                     image: {
-                                        src: "%%image:(cdllogo.png)%%",
+                                        src: "%%image:(design/img/cdllogo.png)%%",
                                         size: "100%"
                                     },
                                     filter: {
@@ -75,7 +74,7 @@ var classes = {
                                 },
                                 display: {
                                     image: {
-                                        src: "%%image:(github.svg)%%",
+                                        src: "%%image:(design/img/github.svg)%%",
                                         size: "100%"
                                     },
                                     filter: {
@@ -182,19 +181,19 @@ var classes = {
                                     matrixData: o({
                                         header: "Compositional",
                                         body: "Pieces of code can be composed with other pieces. This makes writing reuse easy and productive.",
-                                        icon: "%%image:(if_stack_1054970.svg)%%"
+                                        icon: "%%image:(design/img/if_stack_1054970.svg)%%"
                                     }, {
                                         header: "Declarative",
                                         body: "CDL is declarative. There are no sets of instructions, only relations. Relations are expressed functionally or through constraints.",
-                                        icon: "%%image:(if_map_1055029.svg)%%"
+                                        icon: "%%image:(design/img/if_map_1055029.svg)%%"
                                     }, {
                                         header: "Data Driven",
                                         body: "Queries are first-class citizens in CDL. They have been defined with large datasets in mind, making data access easy and fast.",
-                                        icon: "%%image:(if_bar-chart_1055117.svg)%%"
+                                        icon: "%%image:(design/img/if_bar-chart_1055117.svg)%%"
                                     }, {
                                         header: "Reactive",
                                         body: "As a result, apps written in CDL react incrementally and reliably to changes in data and events.",
-                                        icon: "%%image:(if_speedometer_1054972.svg)%%"
+                                        icon: "%%image:(design/img/if_speedometer_1054972.svg)%%"
                                     }),
                                     minCellWidth: 300,
                                     cellHeight: 120,
@@ -409,7 +408,7 @@ var classes = {
                     "class": "OnClickOpenExample",
                     display: {
                         image: {
-                            src: "%%image:(ic_open_in_new_48px.svg)%%",
+                            src: "%%image:(design/img/ic_open_in_new_48px.svg)%%",
                             size: "100%"
                         }
                     },

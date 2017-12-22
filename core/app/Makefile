@@ -13,4 +13,4 @@ CUSTOMERDIR = ../
 
 COMPJSDEP = ../func/*.js ../design/*.js ../includeList.js
 
-include $(ROOTDIR)/util/mmk
+include $(ROOTDIR)/lang/util/mmk

@@ -2,4 +2,4 @@ ROOTDIR=../../..
 
 SUBDIRS = app automated
 
-include $(ROOTDIR)/util/mmk
+include $(ROOTDIR)/lang/util/mmk

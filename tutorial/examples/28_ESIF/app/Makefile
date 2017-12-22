@@ -1,7 +1,7 @@
 # Keep intermediate files
 .SECONDARY:
 
-JS_SOURCES=fileLoad.js
+JS_SOURCES=ESIFApp.js
 
 ROOTDIR=../../../../..
 
@@ -9,7 +9,7 @@ CDLDIR=.
 CUSTOMERDIR=.
 CUSTOMERDATADIR=../../../../../data
 
-include $(ROOTDIR)/util/mmk
+include $(ROOTDIR)/lang/util/mmk
 
 TSC=tsc --noImplicitAny
 

@@ -1,6 +1,6 @@
 JS_SOURCES=main.js
 
 ROOTDIR=../../..
-CDLDIR=..
+CDLDIR=.
 
-include $(ROOTDIR)/util/mmk
+include $(ROOTDIR)/lang/util/mmk

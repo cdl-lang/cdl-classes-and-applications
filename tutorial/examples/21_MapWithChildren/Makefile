@@ -9,7 +9,7 @@ CDLDIR=.
 CUSTOMERDIR=.
 CUSTOMERDATADIR=../../../../data
 
-include $(ROOTDIR)/util/mmk
+include $(ROOTDIR)/lang/util/mmk
 
 TSC=tsc --noImplicitAny
 

@@ -6,4 +6,4 @@ CDLDIR=../../..
 CUSTOMERDATADIR = ../../template/data
 CUSTOMERDIR = ../
 
-include $(ROOTDIR)/util/mmk
+include $(ROOTDIR)/lang/util/mmk
