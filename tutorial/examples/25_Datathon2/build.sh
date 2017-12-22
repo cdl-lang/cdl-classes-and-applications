@@ -4,4 +4,4 @@ ROOTDIR=../../../..
 CDLDIR=.
 DATADIR=.
 
-source $ROOTDIR/util/build.sh
+source "$ROOTDIR"/lang/util/build.sh
